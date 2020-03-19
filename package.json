@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-store": "5.1.0",
+    "jquery": "3.4.1",
+    "zerorpc": "file:./zerorpc-node"
+  },
+  "devDependencies": {
+    "@types/jquery": "3.3.31",
+    "@types/semantic-ui": "2.2.7",
+    "electron": "6.1.5",
+    "electron-packager": "13.1.1",
+    "electron-rebuild": "1.8.8",
+    "eslint": "6.6.0",
+    "har-validator": "5.1.3",
+    "popper.js": "1.16.0",
+    "typescript": "3.7.2"
+  }
+}
